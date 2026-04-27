@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ATCCodes xmlns="http://www.sykehuspartner.no/sa/erp/soa/xsd/G228_5_ATC/v1.0">
+
+    <ATC>
+        <Code>A</Code>
+        <Name_no>Fordøyelsesorganer og stoffskifte</Name_no>
+        <Description_no>Legemidler som virker på fordøyelsesorganer og stoffskifte</Description_no>
+        <Name_en>Alimentary tract and metabolism</Name_en>
+        <Description_en>Drugs acting on the alimentary tract and metabolism</Description_en>
+    </ATC>
+
+    <ATC>
+        <Code>A02B</Code>
+        <Name_no>Ulkusmidler og midler mot gastroøsofageal reflukssykdom</Name_no>
+        <Description_no>Legemidler mot magesår og syrerefleks</Description_no>
+        <Name_en>Drugs for peptic ulcer and gastro-oesophageal reflux disease</Name_en>
+        <Description_en>Agents for treatment of peptic ulcer and GERD</Description_en>
+    </ATC>
+
+    <ATC>
+        <Code>A02BC</Code>
+        <Name_no>Protonpumpehemmere</Name_no>
+        <Description_no>Hemmer syreproduksjon i magen</Description_no>
+        <Name_en>Proton pump inhibitors</Name_en>
+        <Description_en>Inhibitors of gastric acid production</Description_en>
+    </ATC>
+
+    <ATC>
+        <Code>B</Code>
+        <Name_no>Blod og bloddannende organer</Name_no>
+        <Description_no>Legemidler som påvirker blod og bloddannende organer</Description_no>
+        <Name_en>Blood and blood forming organs</Name_en>
+        <Description_en>Drugs affecting blood and blood forming organs</Description_en>
+    </ATC>
+
+    <ATC>
+        <Code>B01A</Code>
+        <Name_no>Antitrombotiske midler</Name_no>
+        <Description_no>Midler som hindrer blodpropp</Description_no>
+        <Name_en>Antithrombotic agents</Name_en>
+        <Description_en>Agents that prevent blood clotting</Description_en>
+    </ATC>
+
+    <ATC>
+        <Code>C</Code>
+        <Name_no>Hjerte og kretsløp</Name_no>
+        <Description_no>Legemidler som virker på hjerte og kretsløp</Description_no>
+        <Name_en>Cardiovascular system</Name_en>
+        <Description_en>Drugs acting on the cardiovascular system</Description_en>
+    </ATC>
+
+    <ATC>
+        <Code>C10AA</Code>
+        <Name_no>HMG CoA reduktasehemmere</Name_no>
+        <Description_no>Statiner – kolesterolsenkende legemidler</Description_no>
+        <Name_en>HMG CoA reductase inhibitors</Name_en>
+        <Description_en>Statins – cholesterol-lowering drugs</Description_en>
+    </ATC>
+
+    <ATC>
+        <Code>J</Code>
+        <Name_no>Antiinfektiva til systemisk bruk</Name_no>
+        <Description_no>Antibiotika, antiviralia og soppmidler</Description_no>
+        <Name_en>Antiinfectives for systemic use</Name_en>
+        <Description_en>Antibiotics, antivirals and antifungals</Description_en>
+    </ATC>
+
+    <ATC>
+        <Code>J01C</Code>
+        <Name_no>Betalaktamantibiotika, penicilliner</Name_no>
+        <Description_no>Penicillinbaserte antibiotika</Description_no>
+        <Name_en>Beta-lactam antibacterials, penicillins</Name_en>
+        <Description_en>Penicillin-based antibiotics</Description_en>
+    </ATC>
+
+    <ATC>
+        <Code>N</Code>
+        <Name_no>Nervesystemet</Name_no>
+        <Description_no>Legemidler som virker på sentralnervesystemet</Description_no>
+        <Name_en>Nervous system</Name_en>
+        <Description_en>Drugs acting on the central nervous system</Description_en>
+    </ATC>
+
+</ATCCodes>

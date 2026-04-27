@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Varegrupper xmlns="http://www.sykehuspartner.no/sa/erp/soa/xsd/G228_6_Varegruppe/v1.0">>
+
+    <Varegruppe>
+        <Code>09</Code>
+        <Name_no>Annet</Name_no>
+        <Description_no>Varer og tjenester som ikke passer i øvrige kategorier</Description_no>
+        <Name_nn>Anna</Name_nn>
+        <Description_nn>Varer og tenester som ikkje passar i andre kategoriar</Description_nn>
+        <Name_en>Other</Name_en>
+        <Description_en>Goods and services not fitting other categories</Description_en>
+    </Varegruppe>
+
+    <Varegruppe>
+        <Code>01</Code>
+        <Name_no>Legemidler</Name_no>
+        <Description_no>Legemidler og farmasøytiske produkter</Description_no>
+        <Name_nn>Legemiddel</Name_nn>
+        <Description_nn>Legemiddel og farmasøytiske produkt</Description_nn>
+        <Name_en>Pharmaceuticals</Name_en>
+        <Description_en>Medicines and pharmaceutical products</Description_en>
+    </Varegruppe>
+
+    <Varegruppe>
+        <Code>02</Code>
+        <Name_no>Medisinsk forbruksmateriell</Name_no>
+        <Description_no>Engangsartikler og forbruksmateriell til medisinsk bruk</Description_no>
+        <Name_nn>Medisinsk forbruksmateriell</Name_nn>
+        <Description_nn>Eingongsartiklar og forbruksmateriell til medisinsk bruk</Description_nn>
+        <Name_en>Medical consumables</Name_en>
+        <Description_en>Single-use and consumable items for medical use</Description_en>
+    </Varegruppe>
+
+    <Varegruppe>
+        <Code>03</Code>
+        <Name_no>Medisinsk utstyr</Name_no>
+        <Description_no>Medisinsk teknisk utstyr og instrumenter</Description_no>
+        <Name_en>Medical equipment</Name_en>
+        <Description_en>Medical technical equipment and instruments</Description_en>
+    </Varegruppe>
+
+    <Varegruppe>
+        <Code>04</Code>
+        <Name_no>Laboratoriemateriell</Name_no>
+        <Description_no>Reagenser, prøvetakingsutstyr og laboratoriemateriell</Description_no>
+        <Name_en>Laboratory supplies</Name_en>
+        <Description_en>Reagents, sampling equipment and laboratory materials</Description_en>
+    </Varegruppe>
+
+    <Varegruppe>
+        <Code>05</Code>
+        <Name_no>Næringsmidler</Name_no>
+        <Description_no>Klinisk ernæring og spesialkost</Description_no>
+        <Name_en>Nutritional products</Name_en>
+        <Description_en>Clinical nutrition and special diet products</Description_en>
+    </Varegruppe>
+
+</Varegrupper>

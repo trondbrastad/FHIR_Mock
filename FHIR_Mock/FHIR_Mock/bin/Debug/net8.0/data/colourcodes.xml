@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Fargekoder xmlns="http://www.sykehuspartner.no/sa/erp/soa/xsd/G228_7_Fargekoder/Fargekoder/v1.0">
+
+    <Fargekode>
+        <Id>fc-0001-aabb-ccdd-eeff00001111</Id>
+        <Varenummer>683123</Varenummer>
+        <Avtaleenhet>XPK</Avtaleenhet>
+        <Avtalenummer>AVT-2024-001</Avtalenummer>
+        <FargekodeSortimentsstatus>Grønn</FargekodeSortimentsstatus>
+        <FargekodeSortiment>Primær</FargekodeSortiment>
+        <FargekodeByttegruppeprioritet>1</FargekodeByttegruppeprioritet>
+    </Fargekode>
+
+    <Fargekode>
+        <Id>fc-0002-aabb-ccdd-eeff00002222</Id>
+        <Varenummer>683127</Varenummer>
+        <Avtaleenhet>XPK</Avtaleenhet>
+        <Avtalenummer>AVT-2024-002</Avtalenummer>
+        <FargekodeSortimentsstatus>Gul</FargekodeSortimentsstatus>
+        <FargekodeSortiment>Sekundær</FargekodeSortiment>
+        <FargekodeByttegruppeprioritet>2</FargekodeByttegruppeprioritet>
+    </Fargekode>
+
+    <Fargekode>
+        <Id>fc-0003-aabb-ccdd-eeff00003333</Id>
+        <Varenummer>683130</Varenummer>
+        <Avtaleenhet>XPK</Avtaleenhet>
+        <Avtalenummer>AVT-2024-001</Avtalenummer>
+        <FargekodeSortimentsstatus>Rød</FargekodeSortimentsstatus>
+        <FargekodeSortiment>Utgående</FargekodeSortiment>
+        <FargekodeByttegruppeprioritet>3</FargekodeByttegruppeprioritet>
+    </Fargekode>
+
+</Fargekoder>

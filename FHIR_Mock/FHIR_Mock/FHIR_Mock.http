@@ -1,0 +1,6 @@
+@FHIR_Mock_HostAddress = http://localhost:5146
+
+GET {{FHIR_Mock_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

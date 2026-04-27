@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YL5Y2Q25AvSGNtE9N5roLFkYM5+3jJfiKgjQCRy2ht4=",
+  "Source": "FHIR_Mock",
+  "BasePath": "_content/FHIR_Mock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

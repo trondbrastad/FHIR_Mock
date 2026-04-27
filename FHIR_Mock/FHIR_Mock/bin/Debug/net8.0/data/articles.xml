@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles xmlns="http://www.sykehuspartner.no/sa/erp/soa/xsd/G228_1_ItemsFromMDM/Products/v1.0">
+    <Article>
+        <Id>1acf8260-df27-42a4-af40-967f1cbf8646</Id>
+        <Varenummer>683123</Varenummer>
+        <Varebetegnelse>CU Miscellaneous incl. VAT</Varebetegnelse>
+        <VarebetegnelseLang>CU Miscellaneous incl. VAT</VarebetegnelseLang>
+        <Varenavn>CU Miscellaneous incl. VAT</Varenavn>
+        <NasjonalKategori>6001039999</NasjonalKategori>
+        <Varegruppenr>09</Varegruppenr>
+        <Varegruppe>Annet</Varegruppe>
+        <Mellomgruppenr>0906</Mellomgruppenr>
+        <Mellomgruppe>Tjenester</Mellomgruppe>
+        <Varetype>Kjedevarer SAHF</Varetype>
+        <Varekategori>TT</Varekategori>
+        <Pakningsstorrelse>1</Pakningsstorrelse>
+        <EnhetForKvantum>STK</EnhetForKvantum>
+        <Primaerenhet>EA</Primaerenhet>
+        <Salgsenhet>XPK</Salgsenhet>
+        <Omregning>1</Omregning>
+        <SvartTrekant>false</SvartTrekant>
+        <MvaSats>25,00</MvaSats>
+        <Parallellimport>false</Parallellimport>
+        <MFDatoDetaljist>0001-01-01T00:00:00</MFDatoDetaljist>
+        <Varestatus>Godkjent</Varestatus>
+        <Fmd>false</Fmd>
+        <InngarIFest>false</InngarIFest>
+        <Modelartikkel>false</Modelartikkel>
+        <Lagerstyringsprofil>HV/OTC</Lagerstyringsprofil>
+        <Inntektskonto>3991</Inntektskonto>
+    </Article>
+
+    <Article>
+        <Id>3aa339f5-4990-42fa-9bfe-830a8647b314</Id>
+        <Varenummer>683127</Varenummer>
+        <Varebetegnelse>CU Varemottak og kontroll av komplisert eller stor forsendelse</Varebetegnelse>
+        <VarebetegnelseLang>CU Varemottak og kontroll av komplisert eller stor forsendelse</VarebetegnelseLang>
+        <Varenavn>CU Varemottak og kontroll av komplisert eller stor forsendelse</Varenavn>
+        <NasjonalKategori>6001039999</NasjonalKategori>
+        <Varegruppenr>09</Varegruppenr>
+        <Varegruppe>Annet</Varegruppe>
+        <Mellomgruppenr>0901</Mellomgruppenr>
+        <Mellomgruppe>Arbeidspriser</Mellomgruppe>
+        <Varetype>Kjedevarer SAHF</Varetype>
+        <Varekategori>Arb.pris</Varekategori>
+        <Pakningsstorrelse>1</Pakningsstorrelse>
+        <EnhetForKvantum>STK</EnhetForKvantum>
+        <Primaerenhet>EA</Primaerenhet>
+        <Salgsenhet>XPK</Salgsenhet>
+        <Omregning>1</Omregning>
+        <SvartTrekant>false</SvartTrekant>
+        <MvaSats>25,00</MvaSats>
+        <Parallellimport>false</Parallellimport>
+        <MFDatoDetaljist>0001-01-01T00:00:00</MFDatoDetaljist>
+        <Varestatus>Godkjent</Varestatus>
+        <Fmd>false</Fmd>
+        <InngarIFest>false</InngarIFest>
+        <Modelartikkel>false</Modelartikkel>
+        <Lagerstyringsprofil>HV/OTC</Lagerstyringsprofil>
+        <TransportbetingelseKode>0</TransportbetingelseKode>
+        <TransportbetingelseBeskrivelse>Ordinær transport</TransportbetingelseBeskrivelse>
+        <LegemiddelformNavn>Blank</LegemiddelformNavn>
+        <LegemiddelformKode>0</LegemiddelformKode>
+        <OppbevaringsbetingelseDetaljist>R</OppbevaringsbetingelseDetaljist>
+        <Leverandor>Sykehusapotekene HF</Leverandor>
+        <NavnFormStyrke>CU Varemottak og kontroll av komplisert eller stor forsendelse</NavnFormStyrke>
+        <Planleggingsmetode>Ikke planlagt</Planleggingsmetode>
+    </Article>
+</Articles>

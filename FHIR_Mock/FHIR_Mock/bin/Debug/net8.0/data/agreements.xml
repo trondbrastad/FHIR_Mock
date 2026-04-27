@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Agreements xmlns="http://www.sykehuspartner.no/sa/erp/soa/xsd/G228_2_AgreementsFromMDM/Agreements/v1.0">
+
+    <Avtalelinje>
+        <Id>a1b2c3d4-0001-42aa-8000-111122223333</Id>
+        <Varenummer>683123</Varenummer>
+        <LeverandorensInterneVarenummer>SUP-001-A</LeverandorensInterneVarenummer>
+        <Prioritet>1</Prioritet>
+        <PrisSalgsenhet>125.00</PrisSalgsenhet>
+        <PrisPrimaerenhet>125.00</PrisPrimaerenhet>
+        <Avtaleenhet>XPK</Avtaleenhet>
+        <Detaljistpakningsstorrelse>1</Detaljistpakningsstorrelse>
+        <AvtaleAip>110.00</AvtaleAip>
+        <AnbefaltAup>135.00</AnbefaltAup>
+        <Organisasjonsnummer>987654321</Organisasjonsnummer>
+        <Avtalenummer>AVT-2024-001</Avtalenummer>
+        <Avtaleniva>Nasjonal</Avtaleniva>
+        <Avtalenavn>Nasjonal rammeavtale forbruksmateriell</Avtalenavn>
+        <Avtalebeskrivelse>Rammeavtale for forbruksmateriell til sykehus</Avtalebeskrivelse>
+        <LISAvtale>false</LISAvtale>
+        <Avtaletype>Rammeavtale</Avtaletype>
+        <ValutaKode>NOK</ValutaKode>
+        <AvtaleStartdato>2024-01-01</AvtaleStartdato>
+        <AvtaleSluttdato>2025-12-31</AvtaleSluttdato>
+        <AvtalelinjeStartdato>2024-01-01</AvtalelinjeStartdato>
+        <AvtalelinjeSluttdato>2025-12-31</AvtalelinjeSluttdato>
+        <Ledetid>3</Ledetid>
+        <FargekodeSortimentsstatus>Grønn</FargekodeSortimentsstatus>
+        <FargekodeSortiment>Primær</FargekodeSortiment>
+        <FargekodeByttegruppeprioritet>1</FargekodeByttegruppeprioritet>
+    </Avtalelinje>
+
+    <Avtalelinje>
+        <Id>a1b2c3d4-0002-42aa-8000-444455556666</Id>
+        <Varenummer>683127</Varenummer>
+        <LeverandorensInterneVarenummer>SUP-002-B</LeverandorensInterneVarenummer>
+        <Prioritet>2</Prioritet>
+        <PrisSalgsenhet>450.00</PrisSalgsenhet>
+        <PrisPrimaerenhet>450.00</PrisPrimaerenhet>
+        <Avtaleenhet>XPK</Avtaleenhet>
+        <Detaljistpakningsstorrelse>1</Detaljistpakningsstorrelse>
+        <AvtaleAip>420.00</AvtaleAip>
+        <AnbefaltAup>480.00</AnbefaltAup>
+        <Organisasjonsnummer>987654321</Organisasjonsnummer>
+        <Avtalenummer>AVT-2024-002</Avtalenummer>
+        <Avtaleniva>Regional</Avtaleniva>
+        <Avtalenavn>Regional avtale varemottak tjenester</Avtalenavn>
+        <Avtalebeskrivelse>Avtale for varemottakstjenester i helseregionen</Avtalebeskrivelse>
+        <LISAvtale>false</LISAvtale>
+        <Avtaletype>Tjenesteavtale</Avtaletype>
+        <ValutaKode>NOK</ValutaKode>
+        <AvtaleStartdato>2024-03-01</AvtaleStartdato>
+        <AvtaleSluttdato>2026-02-28</AvtaleSluttdato>
+        <AvtalelinjeStartdato>2024-03-01</AvtalelinjeStartdato>
+        <AvtalelinjeSluttdato>2026-02-28</AvtalelinjeSluttdato>
+        <Ledetid>5</Ledetid>
+        <Kampanje>
+            <Kampanjenavn>Vårkampanje 2024</Kampanjenavn>
+            <Kampanjetype>Rabatt</Kampanjetype>
+            <KampanjeStartDato>2024-04-01</KampanjeStartDato>
+            <KampanjeSluttDato>2024-05-31</KampanjeSluttDato>
+        </Kampanje>
+        <BildeLinker>
+            <BildeLink>https://example.com/images/683127_front.jpg</BildeLink>
+        </BildeLinker>
+        <FargekodeSortimentsstatus>Gul</FargekodeSortimentsstatus>
+        <FargekodeSortiment>Sekundær</FargekodeSortiment>
+        <FargekodeByttegruppeprioritet>2</FargekodeByttegruppeprioritet>
+    </Avtalelinje>
+
+</Agreements>
